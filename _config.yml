@@ -1,9 +1,10 @@
 title:              Theologischer Perspektivenwechsel
-email:              wilhelm@richebaecher.org
+email:              simon.amani@gmx.de
 description:        A blog by Wilhelm Richebaecher 
 author:             Wilhelm Richebaecher
 baseurl:            ""
 url:                "wilhelm.richebaecher.org"
+formspree_id:       <your-formspree-form-id>
 
 # Social Profiles
 twitter_username:   
