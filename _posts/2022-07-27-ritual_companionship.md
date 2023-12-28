@@ -79,4 +79,3 @@ Will eine verantwortliche kirchliche Arbeit Zukunft haben, so ist es sehr gerate
 ---------------
 
 ------------------------------------------------------------
-
