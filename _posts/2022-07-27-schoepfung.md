@@ -1,12 +1,14 @@
 ---
 layout: post
-title: "Schöpfung, das sind Mensch und Natur!"
-subtitle: "Fokus Schöpfung. Klimawandel."
+title: "Index of all publications"
+subtitle: "State 2020"
 date: 2020-01-26 23:45:13 -0400
 background: '/img/posts/schoepfung/mensch_natur.jpg'
 ---
 
-### Titel 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sed quisquam ut perspiciatis, repudiandae nulla animi iste vel, praesentium repellendus molestias aliquid consequatur, earum rem qui error voluptates eius enim consequuntur!
+### Index of all publications
+<object data="/assets/pdfs/Verzeichnis_Richebaecher_10_2020.pdf" width="1000" height="1000" type='application/pdf'></object>
 
-![link here](/img/bg-post.jpg)
+Or the direct download [here][1]
+
+[1]:{{ site.url }}/assets/pdfs/Verzeichnis_Richebaecher_10_2020.pdf

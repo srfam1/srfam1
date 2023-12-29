@@ -6,13 +6,10 @@ date: 2020-01-16 23:45:13 -0400
 background: '/img/posts/ritual_companionship/Nasiha.jpg'
 ---
 
-### Title 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sed quisquam ut perspiciatis, repudiandae nulla animi iste vel, praesentium repellendus molestias aliquid consequatur, earum rem qui error voluptates eius enim consequuntur! Tes
+### When life ties together and religion divides
+------ Kopierfehler, üs/äs können ganz normal angezeigt werden -----
 
-![link here](/img/bg-post.jpg)
-
-
-�FIT f�r Interkulturelle Kirchen und Theologien �� -  
+FIT für Interkulturelle Kirchen und Theologien �� -  
 Pl�doyer f�r einen dialogisch-missionalen und transformativen Glauben 
 Impulsvortrag 30.7.2022 Wilhelm Richeb�cher   NUR ZUM PERS�NLICHEN GEBRAUCH F�R KOPIEEMPF�NGER VOR DRUCK !!!
 -------------------------------------------------------------------------------------------------------------------------------------- 
