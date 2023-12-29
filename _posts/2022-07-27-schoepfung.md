@@ -11,4 +11,4 @@ background: '/img/posts/schoepfung/mensch_natur.jpg'
 
 Or the direct download [here][1]
 
-[1]:wilhelm.richebaecher.org/assets/pdfs/Verzeichnis_Richebaecher_10_2020.pdf
+[1]:https://wilhelm.richebaecher.org/assets/pdfs/Verzeichnis_Richebaecher_10_2020.pdf
