@@ -7,7 +7,6 @@ background: '/img/posts/ritual_companionship/Nasiha.jpg'
 ---
 
 ### When life ties together and religion divides
------- Kopierfehler, üs/äs können ganz normal angezeigt werden -----
 
 FIT für Interkulturelle Kirchen und Theologien �� -  
 Pl�doyer f�r einen dialogisch-missionalen und transformativen Glauben 
