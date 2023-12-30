@@ -174,7 +174,7 @@ nicht-westlicher Missionsbewegungen.“ Reihe Interkulturalität & Religion/ Int
 
 71.	WR, Rezension zu: Anne Beutter, Religion, Recht und Zugehörigkeit. Rechtspraktiken einer westafrikanischen Kirche und die Dynamik normativer Ordnungen, (Göttingen: V&R, 2022) in: Theologische Literaturzeitung, 148. Jg., H.12 (Dezember 2023), Sp.1258-1260.
 
-72.	Richebächer, W., 
+ 
 
 
 
