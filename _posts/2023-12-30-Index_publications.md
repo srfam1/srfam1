@@ -14,7 +14,7 @@ Prof. em. Dr. Wilhelm Richebächer
   
 
 
-- Monographien / veröffentlicht - 
+#### Monographien / veröffentlicht  
 
 1.	Die Wandlung der natürlichen Theologie in der Neuzeit, 
 Europäische Hochschulschriften, R.XXIII, Theologie, Bd. 350, Frankfurt 1989 (Dissertation Philipps-Universität Marburg 1987)
@@ -28,7 +28,7 @@ Missionswissenschaftliche Forschungen NF Bd. 17, Erlangen 2003 (Habilitation Aug
 
 
 
--  Artikel u.a. / veröffentlicht - 
+####  Artikel u.a. / veröffentlicht 
 
 4.	„Karama za Roho Mtakatifu na Umoja wa Kanisa“, Jarida la 
 Kichungaji, hg. v. L. F. Bahendwa u. a., Jg. 1, Nr. 3, Makumira 1994, 208- 222. (Übersetzung der Artikelüberschrift: ‘Die Gaben des Heiligen Geistes und die Einheit der Kirche’) [Zum Titel der Zeitschrift: ‘Jarida’ (Kiswahili) bedeutet hier ‘Fachzeitschrift’, in diesem Titel ‘Pastorale Fachzeitschrift’] 
@@ -181,8 +181,7 @@ nicht-westlicher Missionsbewegungen.“ Reihe Interkulturalität & Religion/ Int
  
 ______________________________________________________________
 
-
-- Mit anderen gemeinsam verfasst bzw. herausgegeben / veröffentlicht –
+#### Mit anderen gemeinsam verfasst bzw. herausgegeben / veröffentlicht 
 
 1.	„Eine neue Ära beginnt“ (zusammen mit Jutta Richebächer), in: Vereinte evangelische Mission Wuppertal (Hg.), ‘In die Welt - für die Welt’ 3/1996 – (Eine Einschätzung zur Umwandlung der Vereinten Evangelischen Mission  in ein internationales Missionswerk) 
 
@@ -215,7 +214,7 @@ der Evangelischen Kirche von Kurhessen-Waldeck. (Verfasst als Dezernent für Wel
 
 
 
-- Unveröffentlichte Vorträge, Artikel etc. - 
+#### Unveröffentlichte Vorträge, Artikel etc.  
 
 
 1)	Weihnachten gefeiert -  Weihnachten erlebt in Tanzania/Ostafrika, Oktober 1998.
