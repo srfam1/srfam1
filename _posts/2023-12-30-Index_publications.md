@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Index of all publications"
-subtitle: "State 2020"
+title: "Index of all publications and public speeches"
+subtitle: "State autumn 2023"
 date: 2020-01-26 23:45:13 -0400
 background: '/img/posts/schoepfung/mensch_natur.jpg'
 ---
