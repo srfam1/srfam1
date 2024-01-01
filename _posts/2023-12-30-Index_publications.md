@@ -154,25 +154,25 @@ nicht-westlicher Missionsbewegungen.“ Reihe Interkulturalität & Religion/ Int
 
 61.	Richebächer, W. ,Ökumene und Interkulturelle Theologie. Grund-überlegungen und Beispiele aus der Fachhochschule für Interkulturelle Theologie Hermannsburg, in: Link-Wieczorek / Wilhelm Richebächer / Olaf Waßmuth (Hrsg.), Die Zukunft der theologischen Ausbildung ist ökumenisch. Interkulturelle und interkonfessionelle Herausforderungen in Universität und Schule, Kirche und Diakonie, BhÖR 127, Leipzig 2020, 68- 82.
 
-62.	Richebächer, W., ‚“Sprachfähigkeit“ Ausbildungsziel in interkulturell- theologischer Perspektive‘, in: Bernd Schröder (Hg.), Pfarrer oder Pfarrerin werden und sein. Herausforderungen für Beruf und theologische Bildung in Studium, Vikariat und Fortbildung, VWGTh 61, Leipzig, 2020, 527- 543.
+62.	[Richebächer, W., ‚“Sprachfähigkeit“ Ausbildungsziel in interkulturell- theologischer Perspektive‘, in: Bernd Schröder (Hg.), Pfarrer oder Pfarrerin werden und sein. Herausforderungen für Beruf und theologische Bildung in Studium, Vikariat und Fortbildung, VWGTh 61, Leipzig, 2020, 527- 543.][2]
+    
+64.	[Richebächer, W., ‚Schöpfung, das sind Mensch und Natur! Selbstkritisches Plädoyer für theologisches Umdenken‘, in EMW (Hg.) Fokus Schöpfung. Klimawandel. Schöpfungsverantwortung. Öko-Theologie, Jahrbuch Mission 2020 (Hamburg: Missionshilfe Verlag, 2020), 24-29. ][1]
 
-63.	[Richebächer, W., ‚Schöpfung, das sind Mensch und Natur! Selbstkritisches Plädoyer für theologisches Umdenken‘, in EMW (Hg.) Fokus Schöpfung. Klimawandel. Schöpfungsverantwortung. Öko-Theologie, Jahrbuch Mission 2020 (Hamburg: Missionshilfe Verlag, 2020), 24-29. ][1]
+65.	Richebächer, W., ‚”When life ties together and religion divides”: Ritual companionship as test case for a theologically reflected interreligious dialogue’, in: Andreas Kunz-Lübcke (ed.), My Neighbor’s God. Interfaith Spaces and Claims of religious Identity, (Berlin u.a.: Peter Lang, 2020),155-212.
 
-64.	Richebächer, W., ‚”When life ties together and religion divides”: Ritual companionship as test case for a theologically reflected interreligious dialogue’, in: Andreas Kunz-Lübcke (ed.), My Neighbor’s God. Interfaith Spaces and Claims of religious Identity, (Berlin u.a.: Peter Lang, 2020),155-212.
+66.	Richebächer, W., ‚FIT Hermannsburg – Konkretion einer interkulturell partizipativen theologischen Lehre und Forschung‘, Interkulturelle Theologie (ZMiss) 2/2021 (Leipzig / Basel: EVA / Basileia Verlag, 2021), 209-14.
 
-65.	Richebächer, W., ‚FIT Hermannsburg – Konkretion einer interkulturell partizipativen theologischen Lehre und Forschung‘, Interkulturelle Theologie (ZMiss) 2/2021 (Leipzig / Basel: EVA / Basileia Verlag, 2021), 209-14.
+67.	Richebächer, W., ‚Versöhnung: Der schwarze Christus als Symbol todüberwindender höherer Gerechtigkeit‘, in: Chr. Elsas, Th. Gebauer, W.Richebächer (Hg.), Sterben, Tod und Trauer in den Religionen Bd. 4: Dialog zu Tod und Gerechtigkeit zwischen Afrika und Europa, Berlin 2021, 229- 247.
 
-66.	Richebächer, W., ‚Versöhnung: Der schwarze Christus als Symbol todüberwindender höherer Gerechtigkeit‘, in: Chr. Elsas, Th. Gebauer, W.Richebächer (Hg.), Sterben, Tod und Trauer in den Religionen Bd. 4: Dialog zu Tod und Gerechtigkeit zwischen Afrika und Europa, Berlin 2021, 229- 247.
+68.	Richebächer, W., ‚Gott – Ursprung und Gegenüber in der Gemeinschaft des Lebens.‘ In Klaus Hock, Claudia Jahnel (Hg.), Theologie(n) Afrika. Ausgewählte Schlüsselbegriffe in einem umstrittenen Diskursfeld, (Leipzig: EVA, 2022), 155-76.
 
-67.	Richebächer, W., ‚Gott – Ursprung und Gegenüber in der Gemeinschaft des Lebens.‘ In Klaus Hock, Claudia Jahnel (Hg.), Theologie(n) Afrika. Ausgewählte Schlüsselbegriffe in einem umstrittenen Diskursfeld, (Leipzig: EVA, 2022), 155-76.
+69.	Richebächer, W., ‘Mission and Power – Intercultural Theological Witness as a Process of Entangling and Disentangling prerogatives of interpretation and definition’, in: Moritz Fischer, Michael Thiel (eds.), Investigations on the ‘Entangled History’ of Colonialism and Mission in a new perspective [20.Ludwig-Harms-Symposium 28.-29.5.2021 in Hermannsburg] (Berlin: LIT Verlag, 2022), 217-36.
 
-68.	Richebächer, W., ‘Mission and Power – Intercultural Theological Witness as a Process of Entangling and Disentangling prerogatives of interpretation and definition’, in: Moritz Fischer, Michael Thiel (eds.), Investigations on the ‘Entangled History’ of Colonialism and Mission in a new perspective [20.Ludwig-Harms-Symposium 28.-29.5.2021 in Hermannsburg] (Berlin: LIT Verlag, 2022), 217-36.
+70.	Richebächer, W., ‚Deutsche Evangelische Weltmission nach 1945 im Spannungsfeld von Schuldbekenntnis, Existenzkrise und theologischer Vergewisserung‘, Interkulturelle Theologie (ZMiss) 1/2022 (Leipzig / Basel: EVA / Basileia Verlag, 2022), 210-28.
 
-69.	Richebächer, W., ‚Deutsche Evangelische Weltmission nach 1945 im Spannungsfeld von Schuldbekenntnis, Existenzkrise und theologischer Vergewisserung‘, Interkulturelle Theologie (ZMiss) 1/2022 (Leipzig / Basel: EVA / Basileia Verlag, 2022), 210-28.
+71.	WR, Rezension zu: Gregor Etzelmüller, Claudia Jahnel (Hg.), Migrationskirchen. Internationalisierung und Pluralisierung des Christentums vor Ort, (Leipzig: EVA, 2021), in: Wutgebete und Mutgeschichten. Warum Ohnmacht nicht allmächtig ist. Jahrbuch Mission 2023, hg. v. Evangelische Mission Weltweit, (Hamburg: Missionshilfe Verlag, 2023), 147-48. 
 
-70.	WR, Rezension zu: Gregor Etzelmüller, Claudia Jahnel (Hg.), Migrationskirchen. Internationalisierung und Pluralisierung des Christentums vor Ort, (Leipzig: EVA, 2021), in: Wutgebete und Mutgeschichten. Warum Ohnmacht nicht allmächtig ist. Jahrbuch Mission 2023, hg. v. Evangelische Mission Weltweit, (Hamburg: Missionshilfe Verlag, 2023), 147-48. 
-
-71.	WR, Rezension zu: Anne Beutter, Religion, Recht und Zugehörigkeit. Rechtspraktiken einer westafrikanischen Kirche und die Dynamik normativer Ordnungen, (Göttingen: V&R, 2022) in: Theologische Literaturzeitung, 148. Jg., H.12 (Dezember 2023), Sp.1258-1260.
+72.	WR, Rezension zu: Anne Beutter, Religion, Recht und Zugehörigkeit. Rechtspraktiken einer westafrikanischen Kirche und die Dynamik normativer Ordnungen, (Göttingen: V&R, 2022) in: Theologische Literaturzeitung, 148. Jg., H.12 (Dezember 2023), Sp.1258-1260.
 
  
 
@@ -396,3 +396,4 @@ Im Ganzen Aktualisiert Ende 2023
 
 
 [1]:https://wilhelm.richebaecher.org/assets/pdfs/Schöpfung_das_sind_Mensch_und_Natur.pdf
+[2]:https://wilhelm.richebaecher.org/assets/pdfs/Sprachfähigkeit_Ziel_theol_Ausbildung_2020.pdf
