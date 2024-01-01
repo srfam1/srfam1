@@ -9,6 +9,7 @@ background: ' '
 ### UBUNTU – Dazu wir!  Was uns die afrikanische Philosophie in kirchlichen und diakonischen Gemeinschaften in Europa bedeuten kann
 
 Vorgetragen beim Jahrestag der Diakonischen Brüder- und Schwesternschaft Wittekindshof (Diakonische Stiftung Wittekindshof), Bad Oeynhausen, 10. November 2023.
+
 -----------------------------------------------------------------------------------------------------------------
 #### 1.	Die Metamorphose der „Wirs“ – während ‚sich die Welt neu ordnet‘ 
 Dass sich Gemeinschaftsbestimmungen oder „Wirs“ bisweilen rasch und radikal verändern, erleben wir in diesen Monaten hautnah an mindestens drei weltpolitischen Krisen:  
