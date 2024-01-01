@@ -5,6 +5,7 @@ subtitle: "Was uns die afrikanische Philosophie in kirchlichen und diakonischen 
 date: 2024-01-01 15:03:13 
 background: ''
 ---
+
 ### UBUNTU – Dazu wir!  Was uns die afrikanische Philosophie in kirchlichen und diakonischen Gemeinschaften in Europa bedeuten kann
 
 Vorgetragen beim Jahrestag der Diakonischen Brüder- und Schwesternschaft Wittekindshof (Diakonische Stiftung Wittekindshof), Bad Oeynhausen, 10. November 2023.
