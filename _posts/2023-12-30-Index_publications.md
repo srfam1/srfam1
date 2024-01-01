@@ -101,7 +101,7 @@ Wiederabdruck in: Wege nach Edinburgh. Standortbestimmungen im Dialog mit der er
 
 36.	„Rezension zu Ulrich Beyer, Überfluss und Mangel. Die erste ökumenische Sammlung der Christenheit, Frankfurt/M., 2009“, in: Gerechtigkeit, Jahrbuch Mission 2011, hg. v. Evangelischen Missionswerk in Deutschland (EMW) und vom Verband evangelischer Missionskonferenzen, Hamburg, 2011, 257-258.
 
-37.	„Pole sana! Umgang mit Tod und Trauer in Tansania“ In: Elsas, Chr. (Hg.) Sterben, Tod und Trauer in den Religionen und Kulturen der Welt, Bd. 2, Berlin, 2011,  150- 178. 
+37.	[„Pole sana! Umgang mit Tod und Trauer in Tansania“ In: Elsas, Chr. (Hg.) Sterben, Tod und Trauer in den Religionen und Kulturen der Welt, Bd. 2, Berlin, 2011,  150- 178.][4] 
 
 38.	„Verehrung der Gebeine afrikanischer Ahnen und christlicher Heiliger“. In: Elsas, Chr. (Hg.) Sterben, Tod und Trauer in den Religionen und Kulturen der Welt, Bd. 2, Berlin, 2011, 179- 194.  
 
@@ -398,3 +398,4 @@ Im Ganzen Aktualisiert Ende 2023
 [1]:https://wilhelm.richebaecher.org/assets/pdfs/Schöpfung_das_sind_Mensch_und_Natur.pdf
 [2]:https://wilhelm.richebaecher.org/assets/pdfs/Sprachfähigkeit_Ziel_theol_Ausbildung_2020.pdf
 [3]:https://wilhelm.richebaecher.org/assets/pdfs/When_life_ties_together_2020.pdf
+[4]:https://wilhelm.richebaecher.org/assets/pdfs/Sterben_Tod_und_Trauer_Tansania_2011.pdf
