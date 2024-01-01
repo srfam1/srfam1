@@ -158,7 +158,7 @@ nicht-westlicher Missionsbewegungen.“ Reihe Interkulturalität & Religion/ Int
     
 64.	[Richebächer, W., ‚Schöpfung, das sind Mensch und Natur! Selbstkritisches Plädoyer für theologisches Umdenken‘, in EMW (Hg.) Fokus Schöpfung. Klimawandel. Schöpfungsverantwortung. Öko-Theologie, Jahrbuch Mission 2020 (Hamburg: Missionshilfe Verlag, 2020), 24-29. ][1]
 
-65.	Richebächer, W., ‚”When life ties together and religion divides”: Ritual companionship as test case for a theologically reflected interreligious dialogue’, in: Andreas Kunz-Lübcke (ed.), My Neighbor’s God. Interfaith Spaces and Claims of religious Identity, (Berlin u.a.: Peter Lang, 2020),155-212.
+65.	[Richebächer, W., ‚”When life ties together and religion divides”: Ritual companionship as test case for a theologically reflected interreligious dialogue’, in: Andreas Kunz-Lübcke (ed.), My Neighbor’s God. Interfaith Spaces and Claims of religious Identity, (Berlin u.a.: Peter Lang, 2020),155-212.][3]
 
 66.	Richebächer, W., ‚FIT Hermannsburg – Konkretion einer interkulturell partizipativen theologischen Lehre und Forschung‘, Interkulturelle Theologie (ZMiss) 2/2021 (Leipzig / Basel: EVA / Basileia Verlag, 2021), 209-14.
 
@@ -397,3 +397,4 @@ Im Ganzen Aktualisiert Ende 2023
 
 [1]:https://wilhelm.richebaecher.org/assets/pdfs/Schöpfung_das_sind_Mensch_und_Natur.pdf
 [2]:https://wilhelm.richebaecher.org/assets/pdfs/Sprachfähigkeit_Ziel_theol_Ausbildung_2020.pdf
+[3]:https://wilhelm.richebaecher.org/assets/pdfs/When_life_ties_together_2020.pdf
