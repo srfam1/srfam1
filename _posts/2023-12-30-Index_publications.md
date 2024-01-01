@@ -2,7 +2,7 @@
 layout: post
 title: "Index of all publications and public speeches"
 subtitle: "State autumn 2023"
-date: 2020-01-26 23:45:13 -0400
+date: 2023-12-30 15:00:00 
 background: '/img/posts/Konferenzteilnehmer_in_Aktion.jpg'
 ---
 
