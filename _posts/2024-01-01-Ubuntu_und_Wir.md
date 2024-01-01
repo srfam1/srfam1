@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Ubuntu und Wir"
-subtitle: "Was uns die afrikanische Philosophie in kirchlichen und diakonischen Gemeinschaften in Europa bedeuten kann"
+title: "Jüngst gehaltener Vortrag / Latest public presentation"
+subtitle: "Ubuntu und Wir. Was uns die afrikanische Philosophie in kirchlichen und diakonischen Gemeinschaften in Europa bedeuten kann"
 date: 2024-01-01 15:03:13 
 background: '/img/posts/Ujamaa5.jpg'
 ---
