@@ -81,6 +81,7 @@ Denn: Homogene Gemeinschaftsdimensionen und ihre Wurzeln sind derart dominant ge
 
 #### 3.	„Ubuntu-Wir“ und „Geschwisterschaftliches Wir“ – ein lehrreiches Gegenüber 
 
+
 ##### (a)	Bedeutung und Wirksamkeit christlicher Brüder- und Schwesternschaften und diakonischer Gemeinschaften in westeuropäischen Kontexten  
 In allen größeren Religionen hat sich neben der volkstümlichen Form einer Spiritualität und alltagsförmigen religiösen Gemeinschaft der wiederholte Zug von Bewegungen hin zur Verbindlichkeit des Glaubens und Lebens nach den ursprünglichen Maximen einer Gründergestalt gezeigt. 
 Im Christentum, speziell auch in seiner abendländischen Form, waren dies in allen Jahrhunderten Bewegungen des Mönchtums oder der geistlichen Orden des Mittelalters, die schließlich auch in evangelischen Bewegungen ernsthaften Christseins und christlichen Lebens ähnlich nachgebildet wurden. 
