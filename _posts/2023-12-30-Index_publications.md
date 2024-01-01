@@ -398,4 +398,4 @@ Im Ganzen Aktualisiert Ende 2023
 [1]:https://wilhelm.richebaecher.org/assets/pdfs/Schöpfung_das_sind_Mensch_und_Natur.pdf
 [2]:https://wilhelm.richebaecher.org/assets/pdfs/Sprachfähigkeit_Ziel_theol_Ausbildung_2020.pdf
 [3]:https://wilhelm.richebaecher.org/assets/pdfs/When_life_ties_together_2020.pdf
-[4]:https://wilhelm.richebaecher.org/assets/pdfs/Sterben_Tod_und_Trauer_Tansania_2011.pdf
+[4]:https://wilhelm.richebaecher.org/assets/pdfs/Pole_Sana_Sterben_Tod_und_Trauer_Tanzania_2011.pdf
