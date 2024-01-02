@@ -152,7 +152,7 @@ nicht-westlicher Missionsbewegungen.“ Reihe Interkulturalität & Religion/ Int
 
 60.	Richebächer, W., Mittendrin im Lernprozess. Apostelgeschichte als Vorbild der Mission, in: Wir geben nicht auf. Gewalt, Widerstand und Versöhnung, Evangelisches Missionswerk in Deutschland(Hg.), Wir geben nicht auf! Jahrbuch Mission 2019, Hamburg: Missionshilfe Verlag 2019, 41-47. 
 
-61.	Richebächer, W. ,Ökumene und Interkulturelle Theologie. Grund-überlegungen und Beispiele aus der Fachhochschule für Interkulturelle Theologie Hermannsburg, in: Link-Wieczorek / Wilhelm Richebächer / Olaf Waßmuth (Hrsg.), Die Zukunft der theologischen Ausbildung ist ökumenisch. Interkulturelle und interkonfessionelle Herausforderungen in Universität und Schule, Kirche und Diakonie, BhÖR 127, Leipzig 2020, 68- 82.
+[61.	Richebächer, W. ,Ökumene und Interkulturelle Theologie. Grund-überlegungen und Beispiele aus der Fachhochschule für Interkulturelle Theologie Hermannsburg, in: Link-Wieczorek / Wilhelm Richebächer / Olaf Waßmuth (Hrsg.), Die Zukunft der theologischen Ausbildung ist ökumenisch. Interkulturelle und interkonfessionelle Herausforderungen in Universität und Schule, Kirche und Diakonie, BhÖR 127, Leipzig 2020, 68- 82.][7]
 
 62.	[Richebächer, W., ‚“Sprachfähigkeit“ Ausbildungsziel in interkulturell- theologischer Perspektive‘, in: Bernd Schröder (Hg.), Pfarrer oder Pfarrerin werden und sein. Herausforderungen für Beruf und theologische Bildung in Studium, Vikariat und Fortbildung, VWGTh 61, Leipzig, 2020, 527- 543.][2]
     
@@ -401,3 +401,4 @@ Im Ganzen Aktualisiert Ende 2023
 [4]:https://wilhelm.richebaecher.org/assets/pdfs/Pole_Sana_Sterben_Tod_und_Trauer_Tanzania_2011.pdf
 [5]:https://wilhelm.richebaecher.org/assets/pdfs/Relevanz_interkulturellen_Verstehens_Theol_Kirche_2020.pdf
 [6]:https://wilhelm.richebaecher.org/assets/pdfs/FIT_für_interkulturelle_Kirchen_und_Theologien_2022.pdf
+[7]:https://wilhelm.richebaecher.org/assets/pdfs/Ökumene_und_interkulturelle_Theologie_2020.pdf
