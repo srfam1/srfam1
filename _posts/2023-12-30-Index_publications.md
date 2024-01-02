@@ -383,7 +383,7 @@ Deutsche Evangelische Weltmission nach 1945 in der Schnittstelle zwischen den Na
 
 78)	Die Zukunft der Interkulturellen Theologie. Impuls auf der ACKiN- Sitzung am 11. März 2022 in der FIT Hermannsburg
 
-79)	„FIT für Interkulturelle Kirchen und Theologien …“ -  Plädoyer für einen dialogisch-missionalen und transformativen Glauben, Impulsvortrag zur Verabschiedung aus der FIT am 30.7.2022, Hermannsburg, Aula. 
+79)	["FIT für Interkulturelle Kirchen und Theologien …“ -  Plädoyer für einen dialogisch-missionalen und transformativen Glauben, Impulsvortrag zur Verabschiedung aus der FIT am 30.7.2022, Hermannsburg, Aula.][6] 
 
 80)	„Prophetic dialogue – A chance for Intercultural Ecumenical Cooperation and the Reform of Missiology”, Vortrag auf dem Gedächtnissymposium für Andrea Fröchtling, FIT Hermannsburg, 3.-5. Mai 2023.               
 
@@ -400,3 +400,4 @@ Im Ganzen Aktualisiert Ende 2023
 [3]:https://wilhelm.richebaecher.org/assets/pdfs/When_life_ties_together_2020.pdf
 [4]:https://wilhelm.richebaecher.org/assets/pdfs/Pole_Sana_Sterben_Tod_und_Trauer_Tanzania_2011.pdf
 [5]:https://wilhelm.richebaecher.org/assets/pdfs/Relevanz_interkulturellen_Verstehens_Theol_Kirche_2020.pdf
+[6]:https://wilhelm.richebaecher.org/assets/pdfs/FIT_für_interkulturelle_Kirchen_und_Theologien_2022.pdf
