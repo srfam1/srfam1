@@ -44,7 +44,7 @@ Mission der Nord- Ost Diözese in der Lutherischen Kirche Tansanias, Erlangen, 1
 
 9.	„Rechtfertigung – Kirche – Mission. Überlegungen zur evangelischen Begründung und Praxis von Mission“, in: J. Thiesbonenkamp, H. Cochois (Hg). Umwege und Weggefährten, FS Balz , Erlangen 2003, 462- 475. 
 
-10.	‚Missio Dei’ – Grundlage oder Irrweg der Missionstheologie?“ In: missio Dei heute. Zur Aktualität eines missionstheologischen Schlüsselbegriffs, Weltmission heute Nr. 52, hg. v. Evangelisches Missionswerk in Deutschland, Evangelische Kirche von Kurhessen-Waldeck, Hamburg, 2003, 184- 207. 
+10.	[‚Missio Dei’ – Grundlage oder Irrweg der Missionstheologie?“ In: missio Dei heute. Zur Aktualität eines missionstheologischen Schlüsselbegriffs, Weltmission heute Nr. 52, hg. v. Evangelisches Missionswerk in Deutschland, Evangelische Kirche von Kurhessen-Waldeck, Hamburg, 2003, 184- 207.][8] 
 
 11.	“Missio Dei : The Basis of Mission Theology or a Wrong Path?” In: International Review of Mission/ IRM Vol XCII, No. 367, Oct 2003 (Missio Dei revisited Willingen 1952-2002), Geneva, 2003, 588-605. (Übersetzung d. dt. Originals in Weltmission heute Nr 52, 184- 207). 
 
@@ -56,7 +56,7 @@ Mission der Nord- Ost Diözese in der Lutherischen Kirche Tansanias, Erlangen, 1
 
 15.	„Rezension zu Dieter Becker (Hg.) u.a., „Mit dem Fremden leben“, Festschrift für Theo Sundermeier, Erlangen 2000“, in: Ökumenische Rundschau, 53. Jg., H.1, Frankfurt 2004, 122-125.
 
-16.	„Evangelisches Bildungsideal im europäischen Kontext am Beispiel der Hessischen Stipendiatenanstalt“, in: Aufgeschlossen, FS zum Jubiläum 475 Jahre Hessische Stipendiatenanstalt Marburg, Ebsdorfergrund 2004, 167-192.
+16.	[„Evangelisches Bildungsideal im europäischen Kontext am Beispiel der Hessischen Stipendiatenanstalt“, in: Aufgeschlossen, FS zum Jubiläum 475 Jahre Hessische Stipendiatenanstalt Marburg, Ebsdorfergrund 2004, 167-192.][10]
 
 17.	„Rezension zu Derenthal, Olaf: AIDS in Afrika und die Rede von Gott. Impulse einer Option für Menschen mit HIV, LIT-Verlag: Münster-Hamburg-London 2002“, Theologischer Literaturzeitung Jg. 129 (2/2004), Sp. 226- 228. 
 
@@ -83,7 +83,7 @@ Wiederabdruck in: Wege nach Edinburgh. Standortbestimmungen im Dialog mit der er
 
 27.	„Wachstum mit Hindernissen. Zur Situation der Evangelisch-Lutherischen Kirche in Kirgisistan im Frühjahr 2009“, in: Gustav-Adolf-Blatt 4 Leipzig (2009), 6-7.
 
-28.	“UEM – For the Growth of the Church and the Transformation of the World: On the Dynamics in Theology and Organization of an Ecumenical Missionary Communion.” In: Währisch-Oblau, Claudia/ Mwombeki, Fidon. (ed.) Mission Continues. Global Impulses for the 21st Century, Regnum Edinburgh 2010 Series, Vol. 4, ed. by D. Balia et. al., Oxford 2010. (Dt. Erstfassung 2009 unveröff.) 
+28.	[“UEM – For the Growth of the Church and the Transformation of the World: On the Dynamics in Theology and Organization of an Ecumenical Missionary Communion.” In: Währisch-Oblau, Claudia/ Mwombeki, Fidon. (ed.) Mission Continues. Global Impulses for the 21st Century, Regnum Edinburgh 2010 Series, Vol. 4, ed. by D. Balia et. al., Oxford 2010. (Dt. Erstfassung 2009 unveröff.)][9] 
 
 29.	„Rezension zu Reimer Gronemeyer, Matthias Rompel, Verborgenes Afrika. Alltag jenseits von Klischees, Frankfurt/M., 2008“, in:  Jahrbuch Mission, Lateinamerika, hg. v. Evangelischen Missionswerk in Deutschland (EMW) und vom Verband evangelischer Missionskonferenzen, Hamburg, 2010, 242-243.
 
@@ -146,7 +146,7 @@ nicht-westlicher Missionsbewegungen.“ Reihe Interkulturalität & Religion/ Int
 
 57.	Richebächer, W., „Josiah Kibira“. In: Werner, Roland/ Nehlsen, Johannes (Hg.), Gesichter und Geschichten der Reformation. 366 Lebensbilder aus allen Epochen, Fontis Asaph- & Fontis –Verlag; Lüdenscheid 2016, 668- 669. 
 
-58.	Richebächer, W., Systematische Theologie in interkultureller Perspektive – Die kulturelle Vielfalt der Christentümer in Deutschland als Herausforderung an wissenschaftliche Theologie, in Verena Grüter (Hg.), Wegkreuzungen. Interkulturelle Theologie und kontextuelle Herausforderungen, FS Dieter Becker, Missionswissenschaftliche Forschungen NF Bd 34, Erlangen 2017, 86- 109.
+58.	[Richebächer, W., Systematische Theologie in interkultureller Perspektive – Die kulturelle Vielfalt der Christentümer in Deutschland als Herausforderung an wissenschaftliche Theologie, in Verena Grüter (Hg.), Wegkreuzungen. Interkulturelle Theologie und kontextuelle Herausforderungen, FS Dieter Becker, Missionswissenschaftliche Forschungen NF Bd 34, Erlangen 2017, 86- 109.][11]
 
 59.	Richebächer, W., Nicht ohne den Segen der Ahnen. Glaubensstiftung und interkultureller Lernprozess, in: Faszination Afrika. Klischees, Konflikte und Lernprozesse, Evangelisches Missionswerk in Deutschland(Hg.), Faszination Afrika. Jahrbuch Mission 2018, Hamburg: Missionshilfe Verlag 2018, 81-88.
 
@@ -402,3 +402,7 @@ Im Ganzen Aktualisiert Ende 2023
 [5]:https://wilhelm.richebaecher.org/assets/pdfs/Relevanz_interkulturellen_Verstehens_Theol_Kirche_2020.pdf
 [6]:https://wilhelm.richebaecher.org/assets/pdfs/FIT_für_interkulturelle_Kirchen_und_Theologien_2022.pdf
 [7]:https://wilhelm.richebaecher.org/assets/pdfs/Ökumene_und_interkulturelle_Theologie_2020.pdf
+[8]:https://wilhelm.richebaecher.org/assets/pdfs/Missio_Dei_Grundlage_oder_Irrweg_2003
+[9]:https://wilhelm.richebaecher.org/assets/pdfs/UEM_For_the_growth_of_the_church_and_2009
+[10]:https://wilhelm.richebaecher.org/assets/pdfs/Evangelisches_Bildungsideal_im_europäischen_Kontext_2004
+[11]:https://wilhelm.richebaecher.org/assets/pdfs/Systematische_Theologie_in_Interkultureller_Perspektive_2016
