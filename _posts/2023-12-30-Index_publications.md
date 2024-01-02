@@ -374,7 +374,7 @@ Impuls für das Afrika-Forum des EMW – Hermannsburg 26.3.2019  (derselbe nochm
 74)	 Ist die Missionsgeschichte Belastung oder Auftrag ? Kritisches Re-Reading der Missionsgeschichte auf theologischer Grundlage
 Vortragsimpuls Sontra Partnerschaftsabend – 15.11.2019   
 
-75)	 Zur Relevanz interkulturellen Verstehens in Theologie und kirchlichen Berufen [in Deutschland] 2020, Gastvorlesung an der CVJM Hochschule in Kassel (online) – 30.04.2020                                                             
+75)	 [Zur Relevanz interkulturellen Verstehens in Theologie und kirchlichen Berufen [in Deutschland] 2020, Gastvorlesung an der CVJM Hochschule in Kassel (online) – 30.04.2020][5]                                                            
 
 76)	Begegnungen annehmen statt sich hinter Parolen zu verstecken. 
 Deutsche Evangelische Weltmission nach 1945 in der Schnittstelle zwischen den Narrativen vom ‚Großen Auftrag der Leidenden Kirche‘ und ‚Missio dei‘; DGMW Jahrestagung 2021, Berlin, Anfang Oktober 2021
@@ -399,3 +399,4 @@ Im Ganzen Aktualisiert Ende 2023
 [2]:https://wilhelm.richebaecher.org/assets/pdfs/Sprachfähigkeit_Ziel_theol_Ausbildung_2020.pdf
 [3]:https://wilhelm.richebaecher.org/assets/pdfs/When_life_ties_together_2020.pdf
 [4]:https://wilhelm.richebaecher.org/assets/pdfs/Pole_Sana_Sterben_Tod_und_Trauer_Tanzania_2011.pdf
+[5]:https://wilhelm.richebaecher.org/assets/pdfs/Relevanz_interkulturellen_Verstehens_Theol_Kirche_2020.pdf
