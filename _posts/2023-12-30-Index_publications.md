@@ -402,7 +402,7 @@ Im Ganzen Aktualisiert Ende 2023
 [5]:https://wilhelm.richebaecher.org/assets/pdfs/Relevanz_interkulturellen_Verstehens_Theol_Kirche_2020.pdf
 [6]:https://wilhelm.richebaecher.org/assets/pdfs/FIT_für_interkulturelle_Kirchen_und_Theologien_2022.pdf
 [7]:https://wilhelm.richebaecher.org/assets/pdfs/Ökumene_und_interkulturelle_Theologie_2020.pdf
-[8]:https://wilhelm.richebaecher.org/assets/pdfs/Missio_Dei_Grundlage_oder_Irrweg_2003
-[9]:https://wilhelm.richebaecher.org/assets/pdfs/UEM_For_the_growth_of_the_church_and_2009
-[10]:https://wilhelm.richebaecher.org/assets/pdfs/Evangelisches_Bildungsideal_im_europäischen_Kontext_2004
-[11]:https://wilhelm.richebaecher.org/assets/pdfs/Systematische_Theologie_in_Interkultureller_Perspektive_2016
+[8]:https://wilhelm.richebaecher.org/assets/pdfs/Missio_Dei_Grundlage_oder_Irrweg_2003.pdf
+[9]:https://wilhelm.richebaecher.org/assets/pdfs/UEM_For_the_growth_of_the_church_and_2009.pdf
+[10]:https://wilhelm.richebaecher.org/assets/pdfs/Evangelisches_Bildungsideal_im_europäischen_Kontext_2004.pdf
+[11]:https://wilhelm.richebaecher.org/assets/pdfs/Systematische_Theologie_in_Interkultureller_Perspektive_2016.pdf
