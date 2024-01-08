@@ -389,7 +389,7 @@ Deutsche Evangelische Weltmission nach 1945 in der Schnittstelle zwischen den Na
 
 81)	Apologetik : „Verteidigung… des christlichen Glaubens“ – Wer? Wann? Wie?   SMD- Gruppe Marburg- 14. Juni 2023.
 
-82)	„UBUNTU – Dazu wir!  Was uns die afrikanische Philosophie, auch in der Gemeinschaft, bedeuten kann. Geschwisterlichkeit in europäischen Diakoniestiftungen (wie DBSW) und Inspirationen aus afrikanischen Ubuntu- Kontexten“, Vortrag beim Jahrestag der Diakonischen Brüder- und Schwesternschaft Wittekindshof (Diakonische Stiftung Wittekindshof), Bad Oeynhausen, 10. November 2023.
+82)	„UBUNTU – Dazu wir!  Was uns afrikanische Philosophie, auch in der Gemeinschaft, bedeuten kann. Geschwisterlichkeit in europäischen Diakoniestiftungen (wie DBSW) und Inspirationen aus afrikanischen Ubuntu- Kontexten“, Vortrag beim Jahrestag der Diakonischen Brüder- und Schwesternschaft Wittekindshof (Diakonische Stiftung Wittekindshof), Bad Oeynhausen, 10. November 2023.
 
 
 Im Ganzen Aktualisiert Ende 2023
