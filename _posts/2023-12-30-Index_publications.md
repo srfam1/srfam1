@@ -174,7 +174,7 @@ nicht-westlicher Missionsbewegungen.“ Reihe Interkulturalität & Religion/ Int
 
 72.	WR, Rezension zu: Anne Beutter, Religion, Recht und Zugehörigkeit. Rechtspraktiken einer westafrikanischen Kirche und die Dynamik normativer Ordnungen, (Göttingen: V&R, 2022) in: Theologische Literaturzeitung, 148. Jg., H.12 (Dezember 2023), Sp.1258-1260.
 
-73.	[WR, “Prophetic Dialogue based on Missio Dei Triunius. A Chance for Ecumenical Cooperation in Advanced Missiology and Ecological Ethics”,  Verbum SVD 64:3-4 (2023), 336-364.][12]
+73.	[WR, “Prophetic Dialogue based on Missio Dei Triunius. A Chance for Ecumenical Cooperation in Advanced Missiology and Ecological Ethics”, Verbum SVD 64:3-4 (2023), 336-364.][12]
 
  
 
