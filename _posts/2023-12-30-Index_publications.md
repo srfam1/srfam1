@@ -408,4 +408,4 @@ Im Ganzen Aktualisiert Ende 2023
 [9]:https://wilhelm.richebaecher.org/assets/pdfs/UEM_For_the_growth_of_the_church_and_2009.pdf
 [10]:https://wilhelm.richebaecher.org/assets/pdfs/Evangelisches_Bildungsideal_im_europäischen_Kontext_2004.pdf
 [11]:https://wilhelm.richebaecher.org/assets/pdfs/Systematische_Theologie_in_Interkultureller_Perspektive_2016.pdf
-[12]:
+[12]:https://wilhelm.richebaecher.org/assets/pdfs/Prophetic_dialogue_based_on_Missio_Dei_Triunius_Verbum_SVD_3-4_2023.pdf
