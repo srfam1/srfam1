@@ -8,7 +8,7 @@ background: '/img/posts/Konferenzteilnehmer_in_Aktion.jpg'
 
 ### Index of all publications
 Verzeichnis von Schriften und Vorträgen 
-  [Stand Herbst 2023]
+  [Stand Frühling 2024]
  
 Prof. em. Dr. Wilhelm Richebächer
   
