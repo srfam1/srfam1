@@ -397,7 +397,7 @@ Deutsche Evangelische Weltmission nach 1945 in der Schnittstelle zwischen den Na
 
 
 
-Im Ganzen Aktualisiert Ende 2023
+Im Ganzen Aktualisiert April 2024
 
 
 [1]:https://wilhelm.richebaecher.org/assets/pdfs/Schöpfung_das_sind_Mensch_und_Natur.pdf
