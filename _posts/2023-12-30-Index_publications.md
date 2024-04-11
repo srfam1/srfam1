@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Index of all publications and public speeches"
-subtitle: "State autumn 2023"
+subtitle: "State spring 2024"
 date: 2023-12-30 15:00:00 
 background: '/img/posts/Konferenzteilnehmer_in_Aktion.jpg'
 ---
@@ -393,7 +393,7 @@ Deutsche Evangelische Weltmission nach 1945 in der Schnittstelle zwischen den Na
 
 82)	„UBUNTU – Dazu wir!  Was uns afrikanische Philosophie, auch in der Gemeinschaft, bedeuten kann. Geschwisterlichkeit in europäischen Diakoniestiftungen (wie DBSW) und Inspirationen aus afrikanischen Ubuntu- Kontexten“, Vortrag beim Jahrestag der Diakonischen Brüder- und Schwesternschaft Wittekindshof (Diakonische Stiftung Wittekindshof), Bad Oeynhausen, 10. November 2023.
 
-83)	[Können wir Frieden schaffen? Vortrag in der Nikolaikirche Eisenhüttenstadt 5. April 2024.9][13]
+83)	[Können wir Frieden schaffen? Vortrag in der Nikolaikirche Eisenhüttenstadt 5. April 2024.][13]
 
 
 
