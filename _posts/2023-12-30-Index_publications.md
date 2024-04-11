@@ -393,7 +393,7 @@ Deutsche Evangelische Weltmission nach 1945 in der Schnittstelle zwischen den Na
 
 82)	„UBUNTU – Dazu wir!  Was uns afrikanische Philosophie, auch in der Gemeinschaft, bedeuten kann. Geschwisterlichkeit in europäischen Diakoniestiftungen (wie DBSW) und Inspirationen aus afrikanischen Ubuntu- Kontexten“, Vortrag beim Jahrestag der Diakonischen Brüder- und Schwesternschaft Wittekindshof (Diakonische Stiftung Wittekindshof), Bad Oeynhausen, 10. November 2023.
 
-83)	Können wir Frieden schaffen? Vortrag in der Nikolaikirche Eisenhüttenstadt 5. April 2024.
+83)	[Können wir Frieden schaffen? Vortrag in der Nikolaikirche Eisenhüttenstadt 5. April 2024.9][13]
 
 
 
@@ -412,3 +412,4 @@ Im Ganzen Aktualisiert April 2024
 [10]:https://wilhelm.richebaecher.org/assets/pdfs/Evangelisches_Bildungsideal_im_europäischen_Kontext_2004.pdf
 [11]:https://wilhelm.richebaecher.org/assets/pdfs/Systematische_Theologie_in_Interkultureller_Perspektive_2016.pdf
 [12]:https://wilhelm.richebaecher.org/assets/pdfs/Prophetic_dialogue_based_on_Missio_Dei_Triunius_Verbum_SVD_3-4_2023.pdf
+[13]:thhps://wilhelm.richebaecher.org/assets/pdfs/Können_wir_Frieden_schaffen_Eisenhüttenstadt_Apr_2024.pdf
