@@ -2,7 +2,7 @@
 layout: post
 title: "Index of all publications and public speeches"
 subtitle: "State spring 2024"
-date: 2024-04-11 15:00:00 
+date: 2024-04-11 18:43:00 
 background: '/img/posts/Konferenzteilnehmer_in_Aktion.jpg'
 ---
 
