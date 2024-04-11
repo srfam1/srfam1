@@ -6,7 +6,7 @@ date: 2024-01-01 15:03:13
 background: '/img/posts/Ujamaa5.jpg'
 ---
 
-
+Latest public presentation: "Können wir Frieden schaffen?" Friedenskonzert und Vortrag - St.Nikolai - Eisenhüttenstadt - 5.April 2024
 
 
 ### UBUNTU – Dazu wir!  Was uns afrikanische Philosophie in kirchlichen und diakonischen Gemeinschaften in Europa bedeuten kann
