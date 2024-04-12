@@ -15,7 +15,7 @@ see: List of publications and public speeches
 
 
 
-More recent:
+Recent:
 ### UBUNTU – Dazu wir!  Was uns afrikanische Philosophie in kirchlichen und diakonischen Gemeinschaften in Europa bedeuten kann
 
 Vorgetragen beim Jahrestag der Diakonischen Brüder- und Schwesternschaft Wittekindshof (Diakonische Stiftung Wittekindshof), Bad Oeynhausen, 10. November 2023.
