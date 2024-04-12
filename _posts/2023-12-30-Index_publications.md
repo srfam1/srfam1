@@ -393,7 +393,7 @@ Deutsche Evangelische Weltmission nach 1945 in der Schnittstelle zwischen den Na
 
 82)	„UBUNTU – Dazu wir!  Was uns afrikanische Philosophie, auch in der Gemeinschaft, bedeuten kann. Geschwisterlichkeit in europäischen Diakoniestiftungen (wie DBSW) und Inspirationen aus afrikanischen Ubuntu- Kontexten“, Vortrag beim Jahrestag der Diakonischen Brüder- und Schwesternschaft Wittekindshof (Diakonische Stiftung Wittekindshof), Bad Oeynhausen, 10. November 2023.
 
-83)	[Können_wir_Frieden_schaffen_Eisenhüttenstadt_Apr_2024][13]
+83)	[Können_wir_Frieden_schaffen_Eisenhüttenstadt_Apr_2024.][13]
 
 
 
