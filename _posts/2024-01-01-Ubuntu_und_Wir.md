@@ -5,19 +5,7 @@ subtitle: "Was uns afrikanische Philosophie in kirchlichen und diakonischen Geme
 date: 2024-01-01 15:03:13 
 background: '/img/posts/Ujamaa5.jpg'
 ---
-
-Latest public presentation: 
-### "Können wir Frieden schaffen?" Friedenskonzert und Vortrag - St.Nikolai - Eisenhüttenstadt - 5.April 2024
-see: List of publications and public speeches
-
-
-
-
-
-
-Recent:
-### UBUNTU – Dazu wir!  Was uns afrikanische Philosophie in kirchlichen und diakonischen Gemeinschaften in Europa bedeuten kann
-
+ 
 Vorgetragen beim Jahrestag der Diakonischen Brüder- und Schwesternschaft Wittekindshof (Diakonische Stiftung Wittekindshof), Bad Oeynhausen, 10. November 2023.
 
 -----------------------------------------------------------------------------------------------------------------
