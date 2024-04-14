@@ -412,4 +412,4 @@ Im Ganzen Aktualisiert April 2024
 [10]:https://wilhelm.richebaecher.org/assets/pdfs/Evangelisches_Bildungsideal_im_europäischen_Kontext_2004.pdf
 [11]:https://wilhelm.richebaecher.org/assets/pdfs/Systematische_Theologie_in_Interkultureller_Perspektive_2016.pdf
 [12]:https://wilhelm.richebaecher.org/assets/pdfs/Prophetic_dialogue_based_on_Missio_Dei_Triunius_Verbum_SVD_3-4_2023.pdf
-[13]:thhps://wilhelm.richebaecher.org/assets/pdfs/Können_wir_Frieden_schaffen_Eisenhüttenstadt_Apr_2024.pdf
+[13]:https://wilhelm.richebaecher.org/assets/pdfs/Können_wir_Frieden_schaffen_Eisenhüttenstadt_Apr_2024.pdf
