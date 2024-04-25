@@ -210,7 +210,7 @@ der Evangelischen Kirche von Kurhessen-Waldeck. (Verfasst als Dezernent für Wel
 
 15.	Richebächer, W., (Hg. zus. mit Christoph Elsas und Thomas Gebauer), Sterben, Tod und Trauer in den Religionen Bd. 4: Dialog zu Tod und Gerechtigkeit zwischen Afrika und Europa, Berlin 2021, 229- 247.
 
-16. Kammer der Evangelischen Kirche in Deutschland für Weltweite Ökumene, Impulspapier „Ökumene in der evangelisch-theologischen Aus- und Fortbildung in Deutschland“, hg. v. der Evangelischen Kirche in Deutschland, Hannover, 2021.
+16. [Kammer der Evangelischen Kirche in Deutschland für Weltweite Ökumene, Impulspapier „Ökumene in der evangelisch-theologischen Aus- und Fortbildung in Deutschland“, hg. v. der Evangelischen Kirche in Deutschland, Hannover, 2021.][14]
 
 
 ==============================================================
@@ -414,3 +414,4 @@ Im Ganzen Aktualisiert April 2024
 [11]:https://wilhelm.richebaecher.org/assets/pdfs/Systematische_Theologie_in_Interkultureller_Perspektive_2016.pdf
 [12]:https://wilhelm.richebaecher.org/assets/pdfs/Prophetic_dialogue_based_on_Missio_Dei_Triunius_Verbum_SVD_3-4_2023.pdf
 [13]:https://wilhelm.richebaecher.org/assets/pdfs/Können_wir_Frieden_schaffen_Eisenhüttenstadt_Apr_2024.pdf
+[14]:https://wilhelm.richebaecher.org/assets/pdfs/Ökumene_in_der_evangelisch-theologischen_Aus-und_Fortbildung.pdf
