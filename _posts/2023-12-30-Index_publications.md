@@ -176,9 +176,9 @@ nicht-westlicher Missionsbewegungen.“ Reihe Interkulturalität & Religion/ Int
 
 73.	[WR, “Prophetic Dialogue based on Missio Dei Triunius. A Chance for Ecumenical Cooperation in Advanced Missiology and Ecological Ethics”, Verbum SVD 64:3-4 (2023), 336-364.][12]
 
- 
+74. Richebächer, W., 'Spiegel der Missionsgeschichte. 73 Jahre "Jahrbuch Mission" 1951 bis 2024', in: Mission als Mosaik. Ein umstrittener BEgriff weltweit im Wandel, Jahrbuch Mission 2024, hg. v. Evangelische Mission Weltweit e.V. (EMW) , Hamburg: Missionshilfe Verlag, 2024, 55-62.
 
-
+75. Richebächer, W., 'Prophetic dialogue: A chance for intercultural ecumenical cooperation and the reform of missiology', in: W. Richebächer, ed., "Doing Theology" in the Face of Intercultural Challenges and in Global Diakonia, Studies in the Intercultural History of Christianity, Vol. 169, Berlin, New York et al., 2023, 137-159. 
 
  
 ______________________________________________________________
@@ -187,15 +187,21 @@ ______________________________________________________________
 
 1.	„Eine neue Ära beginnt“ (zusammen mit Jutta Richebächer), in: Vereinte evangelische Mission Wuppertal (Hg.), ‘In die Welt - für die Welt’ 3/1996 – (Eine Einschätzung zur Umwandlung der Vereinten Evangelischen Mission  in ein internationales Missionswerk) 
 
-2.	„A New Era begins“ (together with Jutta Richebächer), in: United Evangelical Mission- Magazine Nr.3, Februar 1997, 3- 5 (Übersetzung des dt. Originals aus ‘In die Welt - für die Welt’ 3/1996) 
+2.	„A New Era begins“ (together with Jutta Richebächer), in: United Evangelical Mission- Magazine Nr.3, Februar 1997, 3- 5 (Übersetzung des dt. Originals aus ‘In die Welt - für die Welt’ 3/1996)
+   
 3.	Mission – Ökumene – Weltverantwortung in der Evangelischen Kirche von Kurhessen-Waldeck. Gesamtkonzeption (zusammen mit der Kammer für Mission und Ökumene der Evangelischen Kirche von Kurhessen-Waldeck verfasst), Landeskirchenamt der Evangelischen Kirche von Kurhessen-Waldeck (Hg.), 2. Aufl., Kassel 2002. 
+
 4.	Rechtfertigungslehre und Ekklesiologie aus evangelischer Sicht. (Zusammen mit der Theologischen Kammer der EKKW.) Thesen der Theologischen Kammer der Evangelischen Kirche von Kurhessen-Waldeck, Evangelische Kirche von Kurhessen-Waldeck (Hg.), Kassel  2002  
+
 5.	Weltweite Bezeugung des Evangeliums – Das ökumenische Profil
 der Evangelischen Kirche von Kurhessen-Waldeck. (Verfasst als Dezernent für Weltmission und Ökumene der EKKW.) Bericht des Dezernats für Mission und Ökumene, Landessynode der Evangelischen Kirche von Kurhessen-Waldeck, Frühjahr 2005, http://www.ekkw.de/synode/downloads/0501/bericht_mission_oekumene.pdf
 
 6.	In deiner Gnade Gott, verwandle die Welt. (Zusammen mit einem Redaktionsteam im Landeskirchenamt der EKKW, Kassel, verfasst.) Arbeitshilfen für Gottesdienste und Gruppenveranstaltungen anlässlich der Vollversammlung des Weltkirchenrates in Porto Alegre, Brasilien, Februar 2006, Evangelische Kirche von Kurhessen-Waldeck (Hg.), Kassel 2006 
+
 7.	Dem Glauben auf den Grund gehen. Worüber mit der römisch-katholischen Kirche Gesprächsbedarf besteht. (Zusammen mit der Theologischen Kammer der EKKW verfasst). Ausarbeitung der Theologischen Kammer der Evangelischen Kirche von Kurhessen-Waldeck, Kassel, 2007. 
+
 8.	Das Licht scheint auf alle – Hoffnung auf Erneuerung und Einheit in Europa. (Zusammen mit einem Redaktionsteam im Landeskirchenamt der Evangelischen Kirche von Kurhessen-Waldeck verfasst.)  Arbeitshilfe für Gottesdienste und Gruppenveranstaltungen anlässlich der Dritten Europäischen Ökumenischen Versammlung in Sibiu / Hermannstadt, Rumänien, Sept. 2007, Evangelische Kirche von Kurhessen-Waldeck (Hg.), Kassel, 2007. 
+
 9.	Ermutigung und Befähigung zur Begegnung von Christen und Muslimen. (Zusammen mit der Kammer für Mission und Ökumene der Evangelischen Kirche von Kurhessen-Waldeck verfasst) Eine Handreichung der Kammer für Mission und Ökumene für die Kirchenvorstände der Evangelischen Kirche von Kurhessen-Waldeck, Evangelische Kirche von Kurhessen-Waldeck (Hg.), Kassel, 2008.
 
 10.	 „… Sie gaben’ s dem Herrn freiwillig und von ganzem Herzen …“ Theologische Überlegungen zum gottesdienstlichen Kollektenwesen. (Zusammen mit der Kammer für Mission und Ökumene der Evangelischen Kirche von Kurhessen-Waldeck verfasst). Ausarbeitung der Theologischen Kammer der Evangelischen Kirche von Kurhessen-Waldeck, Evangelische Kirche von Kurhessen-Waldeck (Hg.), Kassel, 2011. 
@@ -212,10 +218,9 @@ der Evangelischen Kirche von Kurhessen-Waldeck. (Verfasst als Dezernent für Wel
 
 16. [Kammer der Evangelischen Kirche in Deutschland für Weltweite Ökumene, Impulspapier „Ökumene in der evangelisch-theologischen Aus- und Fortbildung in Deutschland“, hg. v. der Evangelischen Kirche in Deutschland, Hannover, 2021.][14]
 
+17. Richebächer, Wilhelm (ed.), "Doing Theology" in the Face of Intercultural Challenges and in Global Diakonia, Studies in the Intercultural History of Christianity, Vol. 169, Berlin, New York et al., 2023.
 
 ==============================================================
-
-
 
 #### Unveröffentlichte Vorträge, Artikel etc.  
 
