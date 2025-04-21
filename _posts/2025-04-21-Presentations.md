@@ -1,5 +1,3 @@
-Next public presentations: 
-
 ### "Missio Dei - Way out of the colonial mission-paradigm?"
 June 10, 2025 -  Conference of the Academy of mission at the University of Hamburg June 10- 12 Hamburg, Head-topic 'Mission postkolonial - geht das?'  
 
