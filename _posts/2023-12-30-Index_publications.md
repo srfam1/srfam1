@@ -401,10 +401,7 @@ Deutsche Evangelische Weltmission nach 1945 in der Schnittstelle zwischen den Na
 
 83)	[Können wir Frieden schaffen? Eisenhüttenstadt 5. Apr. 2024.][13]
 
-
-
-Im Ganzen Aktualisiert April 2024
-
+84) "Spiegel der Missionsgeschichte. 73 Jahre 'Jahrbuch Mission' 1951 bis 2024", in: Mission als Mosaik. Ein umstrittener Begriff weltweit im Wandel. Jahrbuch Mission, hg. v. Evangelischen Missionswerk in Deutschland und vom Verband evangelischer Missionskonferenzen, Hamburg, 2024, 55-62.
 
 [1]:https://wilhelm.richebaecher.org/assets/pdfs/Schöpfung_das_sind_Mensch_und_Natur.pdf
 [2]:https://wilhelm.richebaecher.org/assets/pdfs/Sprachfähigkeit_Ziel_theol_Ausbildung_2020.pdf
